@@ -6,4 +6,4 @@
  */
 
 rootProject.name = "JavaExp"
-include("ZonaFit")
+include("ZonaFit", "SpringFitZone")
